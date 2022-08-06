@@ -8,4 +8,4 @@
 
 -- practice_2.py 需要一定技巧的题目
 
--- practice_3.py 不会做需要问的题目
+-- practice_3.py 不会做需要问的题目 （选做）
