@@ -35,6 +35,12 @@ def db_query():
     cur.close()
     con.close()
 
+def db_update():
+    ...
+    
+def db_delete():
+    ...
+    
 
 if __name__ == '__main__':
     db_create()
